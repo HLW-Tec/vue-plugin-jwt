@@ -2,7 +2,7 @@
   "name": "vue-plugin-jwt",
   "version": "1.0.0",
   "description": "Vue的插件，用来获取后台Token，并对其进行调用和存储。",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
