@@ -1,10 +1,14 @@
 {
   "name": "vue-plugin-jwt",
+  "author": "liumapp <liumapp.com@gmail.com>",
   "version": "1.0.0",
   "description": "Vue的插件，用来获取后台Token，并对其进行调用和存储。",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.17.0"
   },
   "repository": {
     "type": "git",
